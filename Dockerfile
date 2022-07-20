@@ -1,1 +1,1 @@
-FROM nginx:1.15.5
+FROM cimg/node:18.4.0
